@@ -1,0 +1,1 @@
+puts "HairStyle Home Page"
